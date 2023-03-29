@@ -1,2 +1,2 @@
-# repositorio para practicar git-pull en mi pc
+# repositorio para practicar git-pull (freecodecamp)
 repositorio para practicar el comando git pull
